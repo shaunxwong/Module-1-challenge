@@ -119,7 +119,22 @@ p {
     text-align: center;
 }
 
+/* Removed and consolidated the common styles for benefit h3
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 
+.benefit-brand h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+*/
 
 .benefits img {
     display: block;
@@ -127,7 +142,25 @@ p {
     max-width: 150px;
 }
 
+/*
+.benefit-lead img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
 
+.benefit-brand img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.benefit-cost img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+*/
 
 .section {
     margin-bottom: 20px;
