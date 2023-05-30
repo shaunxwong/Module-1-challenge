@@ -12,7 +12,7 @@ In this scenario my lead has provided specific criteria for this project. While 
 
 Let's dive into the requirements that I've needed fulfill:
 
-## My User Story
+## User Story
 
 ```
 AS A marketing agency
